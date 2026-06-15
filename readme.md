@@ -26,7 +26,7 @@ PROJECTOR_BT_ADDRESS = [0x00, 0x00, 0x00, 0x00, 0x00, 0x00]  # Replace with your
 这里需要修改的有:
 
 - `CLIENT_ID`: 可以在 [巴法云](https://cloud.bemfa.com/) 上注册账号，创建一个应用，获取 `CLIENT_ID`。
-- `PROJECTOR_BT_ADDRESS`: 需要替换为你的坚果投影仪的蓝牙 mac 地址，可以通过手机蓝牙设置查看。
+- `PROJECTOR_BT_ADDRESS`: 需要替换为你的投影仪的蓝牙 mac 地址，可以通过手机蓝牙设置查看。
 
 ## 巴法云配置
 
