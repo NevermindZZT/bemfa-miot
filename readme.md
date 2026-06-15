@@ -34,9 +34,9 @@ PROJECTOR_BT_ADDRESS = [0x00, 0x00, 0x00, 0x00, 0x00, 0x00]  # Replace with your
 
 | 主题                  | 说明                                            |
 | --------------------- | ----------------------------------------------- |
-| ProjectorBoot006      | 坚果投影仪开关机                                |
-| ProjectorMac          | 坚果投影仪蓝牙 mac 地址(用于开机，需要配套 apk) |
-| ProjectorMoonlight006 | 坚果投影仪 moonlight 开关(需要配套 apk)         |
+| ProjectorBoot006      | 投影仪开关机                                |
+| ProjectorMac          | 投影仪蓝牙 mac 地址(用于开机，需要配套 apk) |
+| ProjectorMoonlight006 | 投影仪 moonlight 开关(需要配套 apk)         |
 
 ## 运行
 
@@ -60,6 +60,6 @@ python main.py
 
 | 功能                     | 状态   | 说明                       |
 | ------------------------ | ------ | -------------------------- |
-| 坚果投影仪开机           | 完成   | 通过米家控制坚果投影仪开机 |
-| 坚果投影仪关机           | 开发中 | 需要配合配套 apk           |
-| 坚果投影仪打开 moonlight | 开发中 | 需要配合配套 apk           |
+| 投影仪开机           | 完成   | 通过米家控制投影仪开机 |
+| 投影仪关机           | 开发中 | 需要配合配套 apk           |
+| 投影仪打开 moonlight | 开发中 | 需要配合配套 apk           |
